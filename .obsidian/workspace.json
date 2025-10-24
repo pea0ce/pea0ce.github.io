@@ -27,9 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github使用.md",
+                "file": "归档/github使用.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "github使用"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "归档/github使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "github使用 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "归档/github使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "github使用 的出链列表"
             }
           },
           {
@@ -157,16 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "归档/github使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "github使用 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,12 +185,12 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "7bb44d56e5be9330",
+  "active": "6c815deda9fb64e5",
   "lastOpenFiles": [
     "图",
     "图/Pasted image 20251025060818.png",
     "归档/2025年10月25日.md",
-    "github使用.md",
+    "归档/github使用.md",
     "归档"
   ]
 }

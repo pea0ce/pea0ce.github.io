@@ -2,4 +2,6 @@
 我只需要下载和上传而已
 我觉得git用着真的太麻烦了
 就不能跟qq群文件一样好用吗
-![[Pasted image 20251025060818.png]]左下角输入summary再push
+![[Pasted image 20251025060818.png]]左下角输入summary再push origin就好
+傻瓜式操作了
+复杂的东西以后遇到再说
