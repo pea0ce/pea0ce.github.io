@@ -41,6 +41,7 @@
             position: fixed;
             top: 30px;
             right: 5px;
+            text-align: right;
         }
     </style>
 </head>
@@ -127,7 +128,7 @@
                 .map(file => {
                     // 把文件名里的空格转义，保留中文
                     const href = 'https://pea0ce.github.io/' + encodeURIComponent(file).replace(/%2F/g, '/');
-                    const text = file.replace('归档/', ''); // 去掉前缀，只保留文件名
+                    const text = file.replace('归档/', '').replace('.md', ''); // 去掉前缀，只保留文件名
                     return `<a href="${href}" target="_blank">${text}</a><br>`;
                 })
                 .join('');
