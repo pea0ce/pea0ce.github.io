@@ -6,7 +6,7 @@
 // @author       pea0ce
 // @match        https://pea0ce.github.io/*.md
 // @match        https://pea0ce.github.io/*.md?*
-// @grant        none
+// @grant        GM_xmlhttpRequest
 // @require      https://unpkg.com/showdown/dist/showdown.min.js
 // ==/UserScript==
 
@@ -47,7 +47,7 @@
 
 <body>
     <div class="fixed">
-        <a href="https://pea0ce.github.io/">回主页</a>
+        <a href="https://pea0ce.github.io/">回主页</a><br>
     </div>
     <div class="line">
         <h1 class="title">一篇文章</h1>
@@ -115,5 +115,30 @@
         document.getElementsByClassName('title')[0].textContent = lastPart
 
         document.getElementsByClassName('line')[1].innerHTML = html
+
+        GM_xmlhttpRequest({
+            method: 'GET',
+            url: 'https://api.github.com/repos/pea0ce/pea0ce.github.io/contents/%E5%BD%92%E6%A1%A3',
+            onload: res => {
+                // 直接把 JSON 打印到控制台
+                console.log(JSON.parse(res.responseText).map(item => item.path));
+                var list = JSON.parse(res.responseText).map(item => item.path)
+                const linksHtml = list
+                .map(file => {
+                    // 把文件名里的空格转义，保留中文
+                    const href = 'https://pea0ce.github.io/' + encodeURIComponent(file).replace(/%2F/g, '/');
+                    const text = file.replace('归档/', ''); // 去掉前缀，只保留文件名
+                    return `<a href="${href}" target="_blank">${text}</a><br>`;
+                })
+                .join('');
+
+                /* 3. 插到“回主页”后面 */
+                const fixedBox = document.querySelector('.fixed');
+                if (fixedBox) {
+                    fixedBox.insertAdjacentHTML('beforeend', linksHtml);
+                }
+            },
+            onerror: err => console.error('请求失败', err)
+        });
     });
 })();
