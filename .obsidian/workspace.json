@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/README.md",
+                "file": "归档/真正的主页.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "真正的主页"
             }
           }
         ],
@@ -194,7 +194,7 @@
     "图/Pasted image 20251025103923.png",
     "图/Pasted image 20251025122932.png",
     "日程.md",
-    "归档/README.md",
+    "归档/真正的主页.md",
     "README.md",
     "计划.md",
     "游戏插件.md",
