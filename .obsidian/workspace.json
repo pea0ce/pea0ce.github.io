@@ -8,7 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f58d093a66136352",
+            "id": "fc68239a6dce4217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "ceb7768145d1cc3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "aeb6c5ea89f0f96c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "归档/unity free灰色.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unity free灰色"
+            }
+          },
+          {
+            "id": "f5b89a75fd44677f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,49 +64,35 @@
             }
           },
           {
-            "id": "6c815deda9fb64e5",
+            "id": "342f9fd908cfaa90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/github使用.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "github使用"
-            }
-          },
-          {
-            "id": "1cd4d5524e2830a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/github使用.md",
+                "file": "归档/unity gc2学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github使用"
+              "title": "unity gc2学习"
             }
           },
           {
-            "id": "f4b56ac57e84f615",
+            "id": "40ee96ebc77a8c8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/主页链接.md",
+                "file": "归档/我关心的内容.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主页链接"
+              "title": "我关心的内容"
             }
           },
           {
-            "id": "885748009a113268",
+            "id": "dad8297366a10bc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,24 +103,10 @@
               },
               "icon": "lucide-file",
               "title": "github使用"
-            }
-          },
-          {
-            "id": "636220b2e3c501b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/主页链接.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "主页链接"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/主页链接.md",
+                "file": "暂时不再担心主页制作的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "主页链接 的反向链接列表"
+              "title": "暂时不再担心主页制作的问题 的反向链接列表"
             }
           },
           {
@@ -184,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/主页链接.md",
+                "file": "暂时不再担心主页制作的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "主页链接 的出链列表"
+              "title": "暂时不再担心主页制作的问题 的出链列表"
             }
           },
           {
@@ -213,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/主页链接.md",
+                "file": "暂时不再担心主页制作的问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "主页链接 的大纲"
+              "title": "暂时不再担心主页制作的问题 的大纲"
             }
           }
         ],
@@ -241,14 +255,27 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "7bb44d56e5be9330",
+  "active": "dad8297366a10bc4",
   "lastOpenFiles": [
-    "归档/utterances使用.md",
-    "归档/github使用.md",
+    "归档/我关心的内容.md",
     "归档/主页油猴化.md",
+    "归档/github使用.md",
+    "归档/虚幻仓库无法连接.md",
+    "归档/2025年10月26日前.md",
     "README.md",
+    "归档/utterances使用.md",
+    "归档/unity gc2学习.md",
+    "归档/unity free灰色.md",
+    "归档/github profile readme.md",
     "归档/主页链接.md",
+    "归档/暂时不再担心主页制作的问题.md",
     "归档/2025年10月25日.md",
+    "看番记录.md",
+    "归档/刷番评论.md",
+    "归档/看番记录 大剑.md",
+    "图/Pasted image 20251025122932.png",
+    "图/Pasted image 20251025103923.png",
+    "日程.md",
     "主页油猴化-0.1.user.js",
     "Log MD Page Content-0.1.user.js",
     "todo",
