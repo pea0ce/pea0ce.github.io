@@ -39,12 +39,14 @@
             "id": "af9ea7dad5a69ef6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251027080203.png"
+                "file": "归档/真正的主页.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251027080203"
+              "icon": "lucide-file",
+              "title": "真正的主页"
             }
           }
         ],
@@ -199,11 +201,11 @@
   },
   "active": "7bb44d56e5be9330",
   "lastOpenFiles": [
-    "2025年10月27日.md",
     "Pasted image 20251027080203.png",
-    "归档/2025年10月26日前.md",
-    "README.md",
+    "2025年10月27日.md",
     "归档/真正的主页.md",
+    "README.md",
+    "归档/2025年10月26日前.md",
     "归档/游戏开发导航.md",
     "归档/电子阳痿急救包.md",
     "图/Pasted image 20251025060818.png",
