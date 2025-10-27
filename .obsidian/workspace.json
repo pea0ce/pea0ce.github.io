@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/游戏开发导航.md",
+                "file": "归档/2025年10月26日前.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "游戏开发导航"
+              "title": "2025年10月26日前"
+            }
+          },
+          {
+            "id": "af9ea7dad5a69ef6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251027080203.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251027080203"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,17 +197,19 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "b6ccf5c7f2b7236c",
+  "active": "7bb44d56e5be9330",
   "lastOpenFiles": [
+    "2025年10月27日.md",
+    "Pasted image 20251027080203.png",
+    "归档/2025年10月26日前.md",
+    "README.md",
     "归档/真正的主页.md",
     "归档/游戏开发导航.md",
-    "归档/2025年10月26日前.md",
     "归档/电子阳痿急救包.md",
     "图/Pasted image 20251025060818.png",
     "图/Pasted image 20251025103923.png",
     "图/Pasted image 20251025122932.png",
     "日程.md",
-    "README.md",
     "计划.md",
     "游戏插件.md",
     "归档/godot相关.md",
