@@ -17,7 +17,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Pea丶ce の 陋室</title>
+    <title>陋室</title>
     <style>
         div.line {
             width: 1000px;
@@ -54,6 +54,9 @@
         <h1 class="title">一篇文章</h1>
     </div>
     <div class="line">写点什么</div>
+    <script src="https://utteranc.es/client.js" repo="pea0ce/pea0ce.github.io" issue-term="pathname"
+        theme="github-light" crossorigin="anonymous" async>
+        </script>
 </body>
 
 </html>`;
@@ -114,6 +117,7 @@
         // 对URL编码的部分进行解码
         lastPart = decodeURIComponent(lastPart).replace(/\.md$/, "");
         document.getElementsByClassName('title')[0].textContent = lastPart
+        document.title = "陋室 > "+lastPart
 
         document.getElementsByClassName('line')[1].innerHTML = html
 
