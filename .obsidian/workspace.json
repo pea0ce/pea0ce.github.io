@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "电子阳痿急救包"
             }
+          },
+          {
+            "id": "a177dcec8988740f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "归档/游戏开发导航.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "游戏开发导航"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,15 +185,15 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "93bbdcd58bde8ff5",
+  "active": "a177dcec8988740f",
   "lastOpenFiles": [
+    "归档/游戏素材导航.md",
     "归档/人体-绘画-设计.md",
     "归档/游戏开发导航.md",
-    "归档/电子阳痿急救包.md",
-    "归档/真正的主页.md",
-    "归档/游戏素材导航.md",
     "归档/2025年10月26日前.md",
     "归档/2025年10月27日.md",
+    "归档/电子阳痿急救包.md",
+    "归档/真正的主页.md",
     "README.md",
     "图/Pasted image 20251025060818.png",
     "图/Pasted image 20251025103923.png",
