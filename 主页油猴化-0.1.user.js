@@ -17,7 +17,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>陋室</title>
+    <title>pea0ce</title>
     <style>
         div.line {
             width: 1000px;
@@ -117,7 +117,7 @@
         // 对URL编码的部分进行解码
         lastPart = decodeURIComponent(lastPart).replace(/\.md$/, "");
         document.getElementsByClassName('title')[0].textContent = lastPart
-        document.title = "陋室 > "+lastPart
+        document.title = "pea0ce > "+lastPart
 
         document.getElementsByClassName('line')[1].innerHTML = html
 

@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/真正的主页.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "真正的主页"
+              "title": "README"
             }
           }
         ],
@@ -257,11 +257,11 @@
   },
   "active": "c810c9d5be8b1b62",
   "lastOpenFiles": [
-    "归档/音乐相关.md",
     "归档/美术相关.md",
+    "归档/音乐相关.md",
+    "归档/真正的主页.md",
     "归档/开发相关.md",
     "归档/3d相关.md",
-    "归档/真正的主页.md",
     "归档/跑团相关.md",
     "归档/流行文化相关.md",
     "README.md",
